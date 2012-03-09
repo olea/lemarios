@@ -15,7 +15,7 @@ a la disposición de desarrolladores y lingüísticas sin restricción ninguna.
 
 Si dispone de material que considere relevante considere contribuirlo.
 
-_Todos_ los materiales aquí publicados están y serán cedidos al dominio
+__Todos__ los materiales aquí publicados están y serán cedidos al dominio
 público en loor de la máxima reutilización y el mejor desarrollo del
 español en la tecnología.
 
