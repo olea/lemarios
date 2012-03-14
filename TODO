@@ -1,0 +1,3 @@
+
+* ¿sort tiene mal el orden de ordenación? ¡antecede la ñ a la n!
+  - comprobado en coreutils 8.12, Fedora16 y LANG=es_ES.UTF-8
