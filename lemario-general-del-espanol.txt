@@ -237,6 +237,7 @@ abigarrar
 abigeato
 abigeo
 abigotado
+abinar
 ab initio
 abintestato
 ab intestato
@@ -490,6 +491,7 @@ abrojo
 abroma
 abromado
 abromar
+abromarse
 abroncar
 abroquelado
 abroquelar
@@ -551,6 +553,7 @@ abstención
 abstencionismo
 abstencionista
 abstener
+abstenerse
 abstergente
 absterger
 abstersión
@@ -1414,6 +1417,7 @@ acoplar
 acople
 acoquinamiento
 acoquinar
+acorar
 acorarse
 acorazada
 acorazado
@@ -1695,11 +1699,13 @@ acundangarse
 acuntir
 acuosidad
 acuoso
+acupear
 acupuntor
 acupuntura
 acupunturista
 acuradamente
 acurado
+acurdarse
 acure
 acurrucarse
 acurrullar
@@ -1886,6 +1892,7 @@ adimensional
 adinamia
 adinámico
 adinerado
+adinerarse
 ad infinítum
 adintelado
 ad ínterim
@@ -1983,6 +1990,7 @@ adobo
 adocenado
 adocenamiento
 adocenar
+adocilar
 adoctrinador
 adoctrinamiento
 adoctrinar
@@ -2078,6 +2086,7 @@ adrenalina
 adrenalínico
 adrenérgico
 adrezar
+adrezarse
 adrezo
 adrián
 adriático
@@ -2299,6 +2308,7 @@ afeblecerse
 afebril
 afección
 afeccionar
+afeccionarse
 afecho
 afectable
 afectación
@@ -2481,6 +2491,7 @@ afrailado
 afrailamiento
 afrailar
 afrancar
+afrancarse
 afrancesado
 afrancesamiento
 afrancesar
@@ -3200,6 +3211,7 @@ ahuate
 ahuautle
 ahuchador
 ahuchar
+ahuchear
 ahuciar
 ahuecado
 ahuecador
@@ -5274,6 +5286,7 @@ amaitinar
 amajadar
 amajanar
 amalar
+amalarse
 amalaya
 amalayar
 amalear
@@ -5781,6 +5794,7 @@ amos
 amoscador
 amoscamiento
 amoscar
+amoscarse
 amosquilarse
 amostachado
 amostazar
@@ -5863,6 +5877,7 @@ amuinar
 amujerado
 amujeramiento
 amular
+amularse
 amulatado
 amuleto
 amuñecado
@@ -6216,6 +6231,7 @@ anea
 aneaje
 anear
 aneblar
+aneblarse
 anécdota
 anecdotario
 anecdótico
@@ -7345,6 +7361,7 @@ aparragarse
 aparrar
 aparroquiado
 aparroquiar
+aparroquiarse
 apartación
 apartadamente
 apartadero
@@ -7413,6 +7430,7 @@ apegaderas
 apegadizo
 apegamiento
 apegar
+apegarse
 apego
 apegualar
 apelable
@@ -7451,6 +7469,7 @@ apendicitis
 apendicular
 apenitas
 apensionar
+apensionarse
 apenumbrar
 apeñuscar
 apeo
@@ -8831,6 +8850,7 @@ arremetida
 arremetimiento
 arremolinadamente
 arremolinar
+arremolinarse
 arrempujar
 arrempujón
 arremueco
@@ -8848,6 +8868,7 @@ arrentado
 arreo
 arrepanchigarse
 arrepápalo
+arrepasarse
 arrepentida
 arrepentido
 arrepentimiento
@@ -9901,6 +9922,7 @@ ateneísta
 atenencia
 ateneo
 atener
+atenerse
 atenido
 ateniense
 ateniés
@@ -10167,6 +10189,7 @@ atresia
 atresnalar
 atrevencia
 atrever
+atreverse
 atrevido
 atrevimiento
 atrezo
@@ -13710,6 +13733,7 @@ borborigmo
 borboritar
 borborito
 borbotar
+borbotear
 borboteo
 borbotón
 borceguí
@@ -16478,6 +16502,7 @@ canear
 cañear
 caneca
 canecer
+canecerse
 canecho
 canecillo
 caneco
@@ -21855,6 +21880,7 @@ cloral
 clorar
 cloratado
 clorato
+clorformar
 clorhidrato
 clorhídrico
 clórico
@@ -22774,6 +22800,7 @@ comedimiento
 comedio
 comediógrafo
 comedir
+comedirse
 comedón
 comedor
 comedura
@@ -23446,6 +23473,7 @@ condiscípulo
 condolecerse
 condolencia
 condoler
+condolerse
 condominio
 condómino
 condón
@@ -23518,6 +23546,7 @@ conexo
 confabulación
 confabulador
 confabular
+confabularse
 confacción
 confalón
 confalonier
@@ -23781,6 +23810,7 @@ conjuración
 conjurado
 conjurador
 conjuramentar
+conjuramentarse
 conjurar
 conjuro
 conllevador
@@ -27931,6 +27961,7 @@ denegación
 denegar
 denegatorio
 denegrecer
+denegrecerse
 denegrido
 denegrir
 dengoso
@@ -28897,6 +28928,7 @@ descampado
 descampar
 descañar
 descangallar
+descangayar
 descañonar
 descansadamente
 descansadero
@@ -29975,6 +30007,7 @@ deshollinador
 deshollinar
 deshonestamente
 deshonestar
+deshonestarse
 deshonestidad
 deshonesto
 deshonor
@@ -30179,6 +30212,7 @@ desmañado
 desmañanarse
 desmanar
 desmañar
+desmanarse
 desmanchar
 desmanche
 desmancho
@@ -30619,6 +30653,7 @@ desperdigado
 desperdigamiento
 desperdigar
 desperecer
+desperecerse
 desperezarse
 desperezo
 desperfecto
@@ -30691,6 +30726,7 @@ despiste
 despistolización
 despitorrado
 despizcar
+despizcarse
 desplacer
 desplanar
 desplanchar
@@ -35205,6 +35241,7 @@ enfirolar
 enfisema
 enfisematoso
 enfistolar
+enfistolarse
 enfiteusis
 enfiteuta
 enfiteutecario
@@ -35241,6 +35278,7 @@ enfoscar
 enfotarse
 enfrailar
 enfranque
+enfranquecer
 enfrascamiento
 enfrascar
 enfrascarse
@@ -35952,6 +35990,7 @@ ensay
 ensayado
 ensayador
 ensayalar
+ensayalarse
 ensayar
 ensaye
 ensayismo
@@ -38313,6 +38352,7 @@ esponjosidad
 esponjoso
 esponsales
 esponsalicio
+esponsorizar
 espontáneamente
 espontanearse
 espontaneidad
@@ -41268,6 +41308,7 @@ fincable
 fincar
 finchado
 finchar
+fincharse
 fiñe
 finés
 fineta
@@ -42262,6 +42303,7 @@ frangote
 franhueso
 franja
 franjar
+franjear
 franjón
 franklin
 franqueable
@@ -42638,6 +42680,7 @@ fuga
 fugacidad
 fugada
 fugar
+fugarse
 fugaz
 fugazmente
 fugible
@@ -50503,6 +50546,7 @@ intervenir
 interventor
 intervertebral
 interviú
+interviuvar
 ínter vivos
 intervocálico
 interyacente
@@ -51209,6 +51253,7 @@ jactancia
 jactanciosamente
 jactancioso
 jactar
+jactarse
 jactura
 jacuaré
 jaculatoria
@@ -51421,6 +51466,7 @@ jarrear
 jarrer
 jarrero
 jarretar
+jarretarse
 jarrete
 jarretera
 jarrita
@@ -53452,6 +53498,7 @@ libresco
 libreta
 libretazo
 librete
+libretear
 libretearse
 libretista
 libreto
@@ -54627,6 +54674,7 @@ macarrón
 macarronea
 macarrónicamente
 macarrónico
+macarse
 macasar
 macaurel
 macazuchil
@@ -55448,6 +55496,7 @@ mamoplastia
 mamoso
 mamotreto
 mampara
+mamparar
 mamparo
 mamparra
 mampastor
@@ -61434,6 +61483,7 @@ occidentalista
 occidentalización
 occidentalizante
 occidentalizar
+occidentalizarse
 occidente
 occiduo
 occipital
@@ -62009,6 +62059,7 @@ opiata
 opiato
 opilación
 opilar
+opilarse
 opilativo
 opimo
 opinable
@@ -62239,6 +62290,7 @@ orientalista
 orientalización
 orientalizante
 orientalizar
+orientalizarse
 orientano
 orientar
 orientativo
@@ -66565,8 +66617,10 @@ pirquinear
 pirquinero
 pirracha
 pirrar
+pirrarse
 pirrí
 pirriar
+pirriarse
 pírrico
 pirriquio
 pirrís
@@ -70996,6 +71050,7 @@ rasar
 rasarse
 rasca
 rascabuchar
+rascabuchear
 rascacielos
 rascacio
 rascadera
@@ -72109,6 +72164,7 @@ refresco
 refresquería
 refriante
 refriar
+refriarse
 refriega
 refrigeración
 refrigerador
@@ -72290,6 +72346,7 @@ regruñir
 reguarda
 reguardadamente
 reguardar
+reguardarse
 reguardo
 regüeldo
 reguera
@@ -72362,6 +72419,7 @@ reidero
 reidor
 reificación
 reiforme
+reilar
 reilón
 reimplantación
 reimplantar
@@ -72577,6 +72635,7 @@ remanguillé
 remanir
 remanoso
 remansar
+remansarse
 remanso
 remar
 remarcar
@@ -72850,8 +72909,10 @@ repagar
 repajo
 repajolero
 repanchigarse
+repanchingarse
 repanocha
 repantigarse
+repantingarse
 repápalo
 repapilarse
 repapo
@@ -78482,6 +78543,7 @@ sorpresivo
 sorra
 sorrabar
 sorrapar
+sorrapear
 sorregar
 sorriego
 sorripiar
