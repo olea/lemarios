@@ -13878,6 +13878,7 @@ bosquejar
 bosquejo
 bosquete
 bosquimán
+bosquimano
 bossa
 bosta
 bostar
@@ -17825,6 +17826,7 @@ cartazo
 carteado
 cartear
 cartel
+cártel
 cartela
 cartelado
 cartelear
@@ -33368,6 +33370,7 @@ electroimán
 electrolisis
 electrolítico
 electrolito
+electrólito
 electrolización
 electrolizador
 electrolizar
@@ -39629,6 +39632,7 @@ execrativo
 execratorio
 exedra
 exegesis
+exégesis
 exegeta
 exegético
 exención
@@ -55544,6 +55548,7 @@ manatieño
 manato
 manazas
 manazo
+manbís
 mancamiento
 mancar
 mancarrón
@@ -57878,6 +57883,7 @@ microorganismo
 micropilo
 microprocesador
 microscopia
+microscopía
 microscópico
 microscopio
 microscopista
@@ -67595,6 +67601,7 @@ pompático
 pompear
 pompeyano
 pompi
+pompis
 pompo
 pompón
 pomponear
