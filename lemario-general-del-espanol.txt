@@ -1309,6 +1309,7 @@ acohombrar
 acoitar
 acojinamiento
 acojinar
+acojonamiento
 acojonante
 acojonar
 acojone
@@ -2873,6 +2874,7 @@ agro
 agro-
 agroalimentación
 agroalimentario
+agroecología
 agroforestal
 agroindustria
 agroindustrial
@@ -7045,6 +7047,7 @@ antisindical
 antisísmico
 antisistema
 antisocial
+antisolar
 antisoviético
 antisovietismo
 antispasto
@@ -8452,6 +8455,7 @@ argumentación
 argumentador
 argumental
 argumentar
+argumentario
 argumentativo
 argumentista
 argumento
@@ -10525,6 +10529,7 @@ automovilista
 automovilístico
 autonomía
 autonómico
+autonomismo
 autonomista
 autónomo
 autoparte
@@ -10535,6 +10540,7 @@ autopista
 autoplastia
 autopropulsado
 autopropulsión
+autoprotección
 autopsia
 autópsido
 autor
@@ -12403,6 +12409,7 @@ beige
 beirutí
 beis
 béisbol
+beisbolero
 beisbolista
 bejarano
 bejerano
@@ -12758,6 +12765,7 @@ bical
 bicameral
 bicameralismo
 bicampeón
+bicampeonato
 bicapsular
 bicarbonatado
 bicarbonato
@@ -12797,6 +12805,7 @@ bicuento
 bicúspide
 bidé
 bidente
+bidireccional
 bidón
 biela
 bielda
@@ -12924,6 +12933,7 @@ billetear
 billetera
 billetero
 billón
+billonario
 billonésima
 billonésimo
 billullo
@@ -12947,6 +12957,7 @@ bimestre
 bimetal
 bimetalismo
 bimetalista
+biministro
 bimotor
 bina
 binación
@@ -12970,6 +12981,7 @@ bio-
 biocatalizador
 biocenosis
 biochip
+bioclimático
 biocombustible
 biocompatibilidad
 biocompatible
@@ -13298,6 +13310,8 @@ bloc
 bloca
 blocao
 blocar
+blog
+bloguero
 blonda
 blondina
 blondo
@@ -16171,6 +16185,7 @@ camotear
 camotero
 camotillo
 camotudo
+camp
 campa
 cámpago
 campal
@@ -16299,6 +16314,7 @@ canaleta
 canalete
 canaleto
 cañaliega
+canalillo
 canalizable
 canalización
 canalizar
@@ -17831,6 +17847,7 @@ cartela
 cartelado
 cartelear
 cartelera
+cartelería
 cartelero
 cartelista
 carteo
@@ -18918,6 +18935,7 @@ cenero
 cenestesia
 cenestésico
 cenete
+cenetista
 cenhegí
 cení
 cenia
@@ -19985,6 +20003,7 @@ chasquero
 chasqui
 chasquido
 chasquilla
+chat
 chata
 chatarra
 chatarrear
@@ -21156,6 +21175,9 @@ cien
 ciénaga
 ciénago
 ciencia
+cienciología
+cienciológico
+cienciólogo
 ciénega
 ciénego
 cienfueguero
@@ -21615,6 +21637,7 @@ citramontano
 citrato
 cítrico
 citrícola
+citricultor
 citricultura
 citrina
 citrino
@@ -21857,6 +21880,8 @@ clister
 clisterizar
 clítico
 clitómetro
+clitoriano
+clitoridiano
 clítoris
 clivoso
 clo
@@ -22388,6 +22413,7 @@ colaboración
 colaboracionista
 colaborador
 colaborar
+colaborativo
 colación
 colacionar
 colactáneo
@@ -26567,6 +26593,7 @@ cuenta
 cuentacacao
 cuentachiles
 cuentacorrentista
+cuentacuentos
 cuentadante
 cuentagotas
 cuentahabiente
@@ -26684,6 +26711,7 @@ cujinicuil
 cujisal
 cujón
 culada
+culamen
 culantrillo
 culantro
 cular
@@ -27910,6 +27938,7 @@ demonial
 demonio
 demoniomanía
 demonismo
+demonización
 demonizar
 demonólatra
 demonolatría
@@ -32581,6 +32610,7 @@ donoso
 donostiarra
 donosura
 donquijotesco
+dontancredismo
 dopa
 dopado
 dopaje
@@ -32646,6 +32676,7 @@ dosímetro
 dosis
 dossier
 dotación
+dotacional
 dotado
 dotador
 dotal
@@ -33029,6 +33060,7 @@ economista
 economizador
 economizar
 ecónomo
+ecorregión
 ecosistema
 ecosonda
 ecotado
@@ -34050,6 +34082,8 @@ empatadera
 empatar
 empate
 empatía
+empático
+empatizar
 empato
 empatucar
 empautado
@@ -34201,6 +34235,8 @@ emplástico
 emplasto
 emplástrico
 emplastro
+emplatado
+emplatar
 emplazador
 emplazamiento
 emplazar
@@ -35168,6 +35204,7 @@ energético
 energía
 enérgicamente
 enérgico
+energizante
 energizar
 energúmeno
 enerizar
@@ -36844,6 +36881,7 @@ equinoccio
 equinococo
 equinococosis
 equinodermo
+equipación
 equipaje
 equipal
 equipamiento
@@ -37974,6 +38012,7 @@ espalmadura
 espalmar
 espalto
 España
+espanglish
 español
 españolada
 españolado
@@ -38359,6 +38398,7 @@ esponsorizar
 espontáneamente
 espontanearse
 espontaneidad
+espontaneísmo
 espontáneo
 espontón
 espontonada
@@ -38721,9 +38761,11 @@ estenográficamente
 estenográfico
 estenógrafo
 estenordeste
+estenosar
 estenosis
 estenotipia
 estenotipista
+estent
 estentóreo
 estepa
 estepar
@@ -39358,18 +39400,23 @@ eurócrata
 eurodiputado
 eurodivisa
 eurodólar
+euroescepticismo
 euroescéptico
 Europa
 europeidad
 europeísmo
 europeísta
 europeización
+europeizador
 europeizante
 europeizar
 europeo
 europio
 eurovisión
+euscaldún
 euscalduna
+euscaldunización
+euscaldunizar
 éuscaro
 euskera
 eusquera
@@ -39968,6 +40015,7 @@ extractor
 extractora
 extracurricular
 extradición
+extradir
 extraditado
 extraditar
 extradós
@@ -40012,6 +40060,7 @@ extrapolación
 extrapolar
 extrarradio
 extrarrenal
+extrasalarial
 extrasensoria
 extrasensorial
 extrasístole
@@ -42506,6 +42555,7 @@ frijolar
 frijolero
 frijolillo
 frijón
+friki
 frimario
 fringilago
 fringílido
@@ -43683,6 +43733,7 @@ gasificación
 gasificada
 gasificar
 gasista
+gasístico
 gasoducto
 gasógeno
 gasoil
@@ -43789,6 +43840,7 @@ gayo
 gayola
 gayomba
 gayuba
+gayumbos
 gaza
 gazafatón
 gazapa
@@ -44271,6 +44323,7 @@ gliptoteca
 global
 globalización
 globalizador
+globalizante
 globalizar
 globero
 globo
@@ -44403,6 +44456,7 @@ golfear
 golfería
 golfín
 golfista
+golfístico
 golfo
 goliardesco
 goliardo
@@ -44621,6 +44675,7 @@ graciadiosense
 graciado
 graciano
 Graciano
+gracieta
 grácil
 gracilidad
 graciola
@@ -45037,6 +45092,7 @@ gruesamente
 grueso
 gruiforme
 gruir
+gruista
 gruja
 grujidor
 grujir
@@ -45834,6 +45890,7 @@ habiloso
 habitabilidad
 habitable
 habitación
+habitacional
 habitáculo
 habitador
 habitante
@@ -48095,6 +48152,7 @@ idioma
 idiomático
 idiosincrasia
 idiosincrásico
+idiosincrático
 idiota
 idiotez
 idiotipo
@@ -48759,6 +48817,7 @@ incantación
 incapacidad
 incapacitación
 incapacitado
+incapacitante
 incapacitar
 incapaz
 incardinación
@@ -48783,6 +48842,8 @@ incensario
 incensivo
 incenso
 incensurable
+incentivación
+incentivador
 incentivar
 incentivo
 inceptor
@@ -48856,6 +48917,7 @@ inclusivamente
 inclusive
 inclusivo
 incluso
+incluyente
 incoación
 incoar
 incoativo
@@ -49073,6 +49135,7 @@ incultivable
 incultivado
 inculto
 incultura
+inculturación
 incumbencia
 incumbir
 incumplido
@@ -50323,6 +50386,7 @@ intensificación
 intensificadora
 intensificar
 intensión
+intensional
 intensivamente
 intensivista
 intensivo
@@ -50386,6 +50450,7 @@ interdisciplinar
 interdisciplinaridad
 interdisciplinariedad
 interdisciplinario
+interempresarial
 interés
 interesable
 interesadamente
@@ -50409,6 +50474,7 @@ interfijo
 interfoliar
 interfono
 intergaláctico
+intergeneracional
 interglaciar
 intergubernamental
 intergular
@@ -50533,6 +50599,7 @@ intersección
 interserir
 intersexual
 intersexualidad
+intersindical
 intersticial
 intersticio
 intersubjetividad
@@ -51022,6 +51089,7 @@ ISBN
 -isco
 isiaco
 isidoriano
+isidril
 isidro
 -ísimo
 isípula
@@ -56448,6 +56516,7 @@ mascujar
 masculillo
 masculinidad
 masculinización
+masculinizante
 masculinizar
 masculino
 mascullar
@@ -57753,6 +57822,7 @@ metrópoli
 metrópolis
 metropolitano
 metrorragia
+mexica
 mexicalense
 mexicanismo
 mexicanista
@@ -58114,6 +58184,7 @@ miniaturista
 miniaturización
 miniaturizar
 minibar
+minicadena
 minifalda
 minifaldero
 minifundio
@@ -61522,6 +61593,7 @@ ochenteno
 ochentón
 ocho
 ochocientos
+ochomil
 ochosén
 ociar
 ocio
@@ -61778,6 +61850,8 @@ ojota
 ojudo
 ojuelos
 okapi
+okupa
+okupar
 -ol
 ola
 olaje
@@ -62276,6 +62350,7 @@ organoléptico
 organología
 orgánulo
 organza
+orgásmico
 orgasmo
 orgía
 orgiástico
@@ -62544,6 +62619,7 @@ ostras
 ostrera
 ostrero
 ostrícola
+ostricultor
 ostricultura
 ostrífero
 ostro
@@ -63244,6 +63320,7 @@ panamericanista
 panamericano
 pañanga
 panapén
+panarabismo
 panare
 panarizo
 panarra
@@ -63490,6 +63567,7 @@ papalomayo
 papalota
 papalote
 papamoscas
+papamóvil
 papanatas
 papanatismo
 papandujo
@@ -63634,6 +63712,7 @@ paradocente
 paradoja
 paradójico
 paradojo
+paradón
 parador
 paraestatal
 parafango
@@ -63799,6 +63878,7 @@ parcho
 parchón
 parcial
 parcialidad
+parcialismo
 parcializar
 parcialmente
 parcidad
@@ -64088,6 +64168,8 @@ pasadero
 pasadía
 pasadillo
 pasadiscos
+pasadismo
+pasadista
 pasadizo
 pasado
 pasador
@@ -64635,6 +64717,7 @@ peculado
 peculiar
 peculiaridad
 peculiarismo
+peculiarizar
 peculiarmente
 peculio
 pecunia
@@ -65020,6 +65103,7 @@ peñasco
 peñascoso
 peñasquear
 penates
+peñazo
 penca
 pencada
 pencal
@@ -65172,6 +65256,7 @@ pepena
 pepenable
 pepenador
 pepenar
+pepero
 pepesca
 pepián
 pepinar
@@ -67806,6 +67891,7 @@ porrudo
 porsiacaso
 porta
 porta-
+portaaeronaves
 portaalmizcle
 portaaviones
 portabandera
@@ -67826,6 +67912,7 @@ portadilla
 portado
 portador
 portaequipaje
+portaeronaves
 portaestandarte
 portafolio
 portafusil
@@ -67849,6 +67936,7 @@ portamantas
 portamanteo
 portaminas
 portamira
+portamisiles
 portamonedas
 portanario
 portañola
@@ -67996,6 +68084,7 @@ posposición
 pospositivo
 posprandial
 pospretérito
+posproducción
 pospuesto
 posromanticismo
 posromántico
@@ -68054,6 +68143,7 @@ postónico
 postoperatorio
 postor
 postpalatal
+postproducción
 postración
 postrador
 postrar
@@ -70662,6 +70752,7 @@ racismo
 racista
 raco
 racor
+racord
 rad
 rad-
 rada
@@ -71876,6 +71967,8 @@ recurrente
 recurrible
 recurrido
 recurrir
+recursividad
+recursivo
 recurso
 recusable
 recusación
@@ -72910,6 +73003,8 @@ reómetro
 reorganización
 reorganizador
 reorganizar
+reorientación
+reorientar
 reostato
 repacer
 repagar
@@ -73251,6 +73346,7 @@ rescatado
 rescatador
 rescatar
 rescate
+rescatista
 rescaza
 rescindible
 rescindir
@@ -77688,6 +77784,7 @@ siútico
 siutiquería
 sizigia
 slip
+SMS
 so
 so-
 soalzar
@@ -78019,6 +78116,7 @@ socialista
 socialización
 socializador
 socializar
+sociata
 sociativo
 sociedad
 societario
@@ -79017,6 +79115,7 @@ sudestada
 sudeste
 sudista
 sudoeste
+sudoku
 sudor
 sudoración
 sudoral
@@ -79433,6 +79532,7 @@ suscriptor
 suscrito
 suscritor
 susero
+sushi
 susidio
 suso
 susodicho
@@ -79830,6 +79930,7 @@ tallada
 tallado
 tallador
 talladura
+tallaje
 tallar
 tallarín
 tallarola
@@ -80681,6 +80782,7 @@ teletexto
 teletienda
 teletipo
 teletón
+teletrabajador
 teletrabajo
 televenta
 televidencia
@@ -82772,6 +82874,7 @@ trans-
 transa
 transacción
 transaccional
+transaccionar
 transalpino
 transandino
 transar
@@ -82932,6 +83035,7 @@ transvasar
 transvase
 transverberación
 transversal
+transversalidad
 transversalmente
 transverso
 tranvía
@@ -84333,6 +84437,8 @@ tuto
 tutor
 tutorar
 tutoría
+tutorización
+tutorizar
 tutriz
 tutú
 tutumilpate
@@ -84394,6 +84500,7 @@ ufología
 ufológico
 ufólogo
 ugandés
+ugetista
 ugre
 ugrofinés
 uh
@@ -84433,10 +84540,12 @@ ultra
 ultra-
 ultracorrección
 ultraderecha
+ultraderechismo
 ultraderechista
 ultraísmo
 ultraísta
 ultraizquierda
+ultraizquierdismo
 ultraizquierdista
 ultrajador
 ultrajante
@@ -84720,6 +84829,7 @@ usanza
 usar
 usarcé
 usarced
+USB
 -usco
 uscoque
 usencia
@@ -85201,6 +85311,7 @@ vasto
 vataje
 vate
 váter
+vaticanismo
 vaticanista
 vaticano
 vaticinador
