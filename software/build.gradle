@@ -1,0 +1,26 @@
+apply plugin: 'groovy'
+apply plugin: 'application'
+apply plugin: 'maven'
+
+group = 'com.acceso'
+version = '0.1-SNAPSHOT'
+
+/*
+ * Mapeando la configuración 'groovy' de Gradle con el scope 'runtime' de maven. De esta forma
+ * al generar el pom considerará como dependencias a incluir aquellas asociadas con la configuración
+ * 'groovy'. Por defecto considera únicamente las que incorpora el plugin 'java' de gradle.
+ */
+conf2ScopeMappings.addMapping(MavenPlugin.COMPILE_PRIORITY, configurations.groovy, org.gradle.api.artifacts.maven.Conf2ScopeMappingContainer.COMPILE)
+
+repositories {
+	mavenLocal()
+	mavenCentral()
+}
+
+dependencies {
+	groovy group: 'org.codehaus.groovy', name: 'groovy-all', version: '1.8.6'
+	groovy group: 'log4j', name: 'log4j', version: '1.2.16'
+	groovy 'org.jsoup:jsoup:1.6.3'
+}
+
+mainClassName = 'com.acceso.lemarios.ExtractInflectedForms'
