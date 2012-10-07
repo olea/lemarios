@@ -11,7 +11,7 @@ El objetivo inicial es recopilar material necesario para completar el
 corrector ortográfico libre de «Recursos Lingüísticos Abiertos»
 (https://forja.rediris.es/projects/rla-es/), usado en todas las
 distribuciones Linux, LibreOffice/OpenOffice, Firefox, etc. Asímismo quedan
-a la disposición de desarrolladores y lingüísticas sin restricción ninguna.
+a la disposición de desarrolladores y lingüístas sin restricción ninguna.
 
 Si dispone de material que considere relevante considere contribuirlo.
 
