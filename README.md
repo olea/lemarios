@@ -23,3 +23,7 @@ español en la tecnología.
 
 Contacte con nosotros a través de https://github.com/olea/lemarios/issues
 
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/olea/lemarios.svg)](https://starchart.cc/olea/lemarios)
